@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import time
+import os
 
 # --- הגדרות ---
 # שים לב: החלף את הקישור הזה בקישור המדויק של עמוד ערכת הלידה באתר של שילב!

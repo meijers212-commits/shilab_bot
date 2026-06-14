@@ -1,0 +1,13 @@
+# ספריות נדרשות לפרויקט Shilab Monitor Bot
+
+# בוט טלגרם
+pyTelegramBotAPI==4.14.0
+
+# בקשות HTTP
+requests==2.31.0
+
+# ניתוח HTML
+beautifulsoup4==4.12.2
+
+# תלויות נוספות של BeautifulSoup
+lxml==4.9.3
